@@ -20,13 +20,13 @@ header {
     text-align: justify;
 }
 
-h1 {
-    text-align: center;
-}
-
 .titleFont {
     font-family: 'Inter', sans-serif;
     font-weight: 800;
+}
+
+h1 {
+    text-align: center;
 }
 
 h2 {
@@ -37,12 +37,11 @@ h2 {
 }
 
 img {
-    max-width: 100%;
-    height: auto;
     display: block;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
-    padding: 20px;
+    padding-top: 20px;
   }
 
 #conclusion {  
